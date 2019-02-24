@@ -1,0 +1,12 @@
+# _site.yml file
+
+name: "DataCoffee"
+output_dir: "."
+navbar:
+  title: "Data and Coffee"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+      
